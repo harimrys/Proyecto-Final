@@ -1,0 +1,63 @@
+
+* {
+    box-sizing: border-box;}
+  
+  h1 {
+    text-align: center;
+    color: #0c40d1;}
+  
+  .contenedor {
+    margin: 30px;
+    padding: 10px;}
+    
+  fieldset {
+    background-color: #01FFFF;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    border: none;}
+  
+  fieldset input {
+    margin:2px;
+    background-color:#FFFF01;
+    border-radius: 2px;
+    border: 1px solid #80808094;}
+  
+  .contratation-type input {
+  margin-bottom: 15px;}
+  
+  .motivo {
+    margin-bottom: 25px;}
+  
+  legend {
+    background-color: #E30907;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;}
+  
+  #valoracion {
+    margin-top: 10px;}
+  
+  #dia-semana {
+    background-color: white;
+    margin-top: 15px;}
+  
+  #valoracion, #mostrar-cuenta, #dia {
+    background-color:#FFC0CB;
+    width: 100px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    padding: 5px;
+    border-radius: 5px;}
+  
+  button {
+    cursor: pointer;
+    padding: 4px;
+    margin: 2.5px}
+  
+  #validacion {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: smaller;
+    font-family:auto;} 
